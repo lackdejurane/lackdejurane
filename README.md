@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lackdejurane
-- 👀 I’m interested in pokemon game development
+- 👀 I’m interested in ruby game development.
 - 🌱 I’m currently learning RGSS
-- 💞️ I’m looking to collaborate on my game project
-- 📫 My discord is LackDeJurane#2096
+- 💞️ I’m looking forward to recruiting people for my game.
+- 📫 My discord username is LackDeJurane#2096
 
 <!---
 lackdejurane/lackdejurane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
